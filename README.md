@@ -4,15 +4,6 @@
 
 ## NSU SE & CS STUDENT
 
-### Tech Stack
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&color=5e81ac)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&color=d08770)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black&color=4c566a)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=81a1c1)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01trisha&layout=compact&theme=onedark&bg_color=282c34&title_color=abb2bf&text_color=abb2bf&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### GitHub Analytics
 
 <div>
@@ -23,6 +14,17 @@
     <img width="49%" src="https://streak-stats.demolab.com/?user=01trisha&theme=onedark&background=282c34&ring=61afef&fire=e5c07b&currStreakNum=abb2bf&sideNums=abb2bf&currStreakLabel=abb2bf&sideLabels=abb2bf&dates=5c6370&hide_border=true" />
   </a>
 </div>
+
+
+
+### Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&color=5e81ac)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&color=d08770)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black&color=4c566a)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=81a1c1)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01trisha&layout=compact&theme=onedark&bg_color=282c34&title_color=abb2bf&text_color=abb2bf&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&color=282c34)](https://github.com/01trisha)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white&color=61afef)](http://t.me/tgctrisha)
