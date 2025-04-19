@@ -19,6 +19,3 @@
 [![VK](https://img.shields.io/badge/VK-0077FF?logo=vk&logoColor=white)](https://vk.com/trishasct)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daniltrishkin5@gmail.com)
   
-  ![GitHub streak stats](https://streak-stats.demolab.com/?user=01trisha)
- 
-  
