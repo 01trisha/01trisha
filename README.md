@@ -1,18 +1,7 @@
 <div align="center">
 
 # Hi there 👋, my name is Danil
-
 ## NSU SE & CS STUDENT
-
-<div>
-  <a href="https://github.com/01trisha">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=01trisha&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=58a6ff&hide_border=true" />
-  </a>
-  <a href="https://github.com/01trisha">
-    <img width="49%" src="https://streak-stats.demolab.com/?user=01trisha&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=9e9e9e&hide_border=true" />
-  </a>
-</div>
-
 
 ### Tech Stack:
 
@@ -30,5 +19,8 @@
 [![VK](https://img.shields.io/badge/VK-0077FF?logo=vk&logoColor=white)](https://vk.com/trishasct)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daniltrishkin5@gmail.com)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=01trisha&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=58a6ff&hide_border=true)](https://github.com/01trisha)
+
+[![GitHub streak stats](https://streak-stats.demolab.com/?user=01trisha&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=9e9e9e&hide_border=true)](https://github.com/01trisha)
 
 </div>
