@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, my name is Danil</h1>
+# Hi there 👋, my name is Danil
 
-<h3 align="center">NSU SE & CS STUDENT</h3>
+## NSU SE & CS STUDENT
 
 ### Tech Stack:
 
@@ -18,9 +18,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](http://t.me/tgctrisha)
 [![VK](https://img.shields.io/badge/VK-0077FF?logo=vk&logoColor=white)](https://vk.com/trishasct)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daniltrishkin5@gmail.com)
-
-#### My GitHub Stats
   
   ![GitHub streak stats](https://streak-stats.demolab.com/?user=01trisha)
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=01trisha&show_icons=true)  
+ 
   
