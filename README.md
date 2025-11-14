@@ -29,9 +29,9 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&color=282c34)](https://github.com/01trisha)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white&color=FFA116)](https://leetcode.com/u/daniltrishkin5/)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white&color=B1361E)](https://www.codewars.com/users/01trisha)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white&color=B1361E)](https://www.codewars.com/users/trishadd)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white&color=61afef)](http://t.me/tgctrisha)
-[![VK](https://img.shields.io/badge/VK-0077FF?style=flat-square&logo=vk&logoColor=white&color=528bcc)](https://vk.com/trishasct)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=flat-square&logo=vk&logoColor=white&color=528bcc)](https://vk.com/trishadd)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&color=e06c75)](mailto:daniltrishkin5@gmail.com)
 
 </div>
