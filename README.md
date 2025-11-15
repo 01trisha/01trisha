@@ -32,6 +32,6 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white&color=B1361E)](https://www.codewars.com/users/trishadd)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white&color=61afef)](http://t.me/tgctrisha)
 [![VK](https://img.shields.io/badge/VK-0077FF?style=flat-square&logo=vk&logoColor=white&color=528bcc)](https://vk.com/trishadd)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&color=e06c75)](mailto:daniltrishkin5@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&color=e06c75)](mailto:trishadd-coop@yandex.com)
 
 </div>
