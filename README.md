@@ -7,9 +7,13 @@
 ### GITHUB ANALYTICS
 
 <div>
-  <a href="https://github.com/01trisha">
-    <img width="41%" src="https://github-readme-stats.vercel.app/api?username=01trisha&show_icons=true&theme=onedark&bg_color=282c34&hide_border=true&title_color=abb2bf&text_color=abb2bf&icon_color=61afef" />
-  </a>
+<a href="https://github.com/01trisha">
+  <img
+    width="41%"
+    src="https://github-stats-extended.vercel.app/api?username=01trisha&show_icons=true&theme=onedark&bg_color=282c34&hide_border=true&title_color=abb2bf&text_color=abb2bf&icon_color=61afef"
+    alt="GitHub Stats"
+  />
+</a>
   
   <a href="https://github.com/01trisha">
     <img width="43%" src="https://streak-stats.demolab.com/?user=01trisha&theme=onedark&background=282c34&ring=61afef&fire=e5c07b&currStreakNum=abb2bf&sideNums=abb2bf&currStreakLabel=abb2bf&sideLabels=abb2bf&dates=5c6370&hide_border=true" />
